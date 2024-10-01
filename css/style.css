@@ -1,6 +1,13 @@
-header{
+.pattern{
     background-image: url(../img/pattern.png);
     background-position: center top;
+    background-color:aqua;
+}
+.logo{
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 20%;
     background-color:aqua;
 }
 .roboto-thin {
@@ -75,7 +82,7 @@ header{
     font-weight: 900;
     font-style: italic;
   }
-  blue{
+  .blue{
     color: aqua;
   }
   
